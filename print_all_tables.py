@@ -1,0 +1,8 @@
+import ex1_op_on_tableclients
+import ex2_op_on_tableemployees
+import ex35_op_tableservices
+
+
+ex1_op_on_tableclients.show_all_clients()
+ex2_op_on_tableemployees.show_all_employees()
+ex35_op_tableservices.show_all_services()

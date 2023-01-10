@@ -1,0 +1,35 @@
+Sub-Service,Service,Price, Id
+Epilat axila,Cosmetica,25,123
+Epilat brate,Cosmetica,35,123
+Epilat picior scurt,Cosmetica,40,123
+Epilat picior lung,Cosmetica,80,123
+Epilat abdomen,Cosmetica,30,123
+Epilat nas,Cosmetica,15,123
+Epilat inghinal,Cosmetica,45,123
+Epilat inghinal total,Cosmetica,65,123
+Spalat par,Frizerie barbati,65,456
+Tuns copii,Frizerie barbati,65,456
+Tuns barbati,Frizerie barbati,65,456
+Tuns barba,Frizerie barbati,65,456
+Aranjat barba,Frizerie barbati,65,456
+Masaj capilar,Frizerie barbati,65,456
+Spalat par,Frizerie femei,30,728
+Tuns breton,Frizerie femei,20,728
+Tuns par scurt,Frizerie femei,35,728
+Tuns par mediu,Frizerie femei,40,728
+Tuns par lung,Frizerie femei,50,728
+Coafat peria par scurt,Frizerie femei,40,728
+Coafat peria par mediu,Frizerie femei,60,728
+Coafat peria par lung,Frizerie femei,80,728
+Intins cu placa par mediu,Frizerie femei,40,728
+Intins cu placa par lung,Frizerie femei,80,728
+Coafat mireasa,Frizerie femei,200,728
+Masaj de relaxare,Masaj,100,963
+Masaj anticelulitic,Masaj,150,963
+Masaj cu bambus,Masaj,200,963
+Manichiura cu oja semipermanenta,Manichiura,70,582
+Manichiura cu gel,Manichiura,120,582
+Modele,Manichiura,30,582
+Manichiura simpla,Manichiura,50,582
+Mconstructie unghii,Manichiura,120,582
+Pedichiura,Manichiura,70,582
